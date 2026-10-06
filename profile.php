@@ -30,4 +30,24 @@ require 'includes/header.php';
 
 </section> 
 
+<section id="fokus-pembelajaran">
+    <h2>Fokus Pembelajaran</h2>
+    <div class="fokus-container">
+        <div>
+            <h3>1. Teknologi Informasi</h3>
+            <p>Mempelajari perkembangan teknologi untuk mendukung kebutuhan organisasi.</p>
+        </div>
+
+        <div>
+            <h3>2. Pengembangan Sistem</h3>
+            <p>Memahami proses analisis, perancangan, dan pengembangan sistem informasi.</p>
+        </div>
+
+        <div>
+            <h3>3. Pengelolaan Data</h3>
+            <p>Mempelajari pengolahan dan pengelolaan data untuk mendukung pengambilan keputusan.</p>
+        </div>
+    </div>
+</section>
+
 <?php require 'includes/footer.php'; ?> 
